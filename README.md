@@ -14,9 +14,9 @@ Atualmente estou em transição/evolução na área de tecnologia, com foco prin
 
 ### 🛠️ Minha Toolbox
 
-![Python](https://shields.io)
-![Git](https://shields.io)
-![VS Code](https://shields.io)
+<img src="https://shields.io" alt="Python">
+<img src="https://shields.io" alt="Git">
+<img src="https://shields.io" alt="VS Code">
 
 ---
 
