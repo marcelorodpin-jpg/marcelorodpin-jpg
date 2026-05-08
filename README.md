@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou o Marcelo! 👋
 
-<!--
-**marcelorodpin-jpg/marcelorodpin-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou em transição/evolução na área de tecnologia, com foco principal em **Python**. Este perfil é o meu caderno de estudos e laboratório de projetos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🎯 **Foco atual:** Dominar a lógica de programação e os fundamentos do Python.
+- 🌱 **Aprendendo:** Manipulação de dados, automação e boas práticas de desenvolvimento.
+- 💼 **Objetivo:** Construir uma base sólida para atuar em projetos de desenvolvimento de software/dados.
+
+---
+
+### 🛠️ Minha Toolbox
+
+![Python](https://shields.io)
+![Git](https://shields.io)
+![VS Code](https://shields.io)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
+</div>
+
+---
+
+### 📫 Como me encontrar
+
+- **LinkedIn:** [Seu Nome Aqui](https://linkedin.com)
+- **Email:** seuemail@exemplo.com
+
+---
+*“A persistência é o caminho do êxito.”*
