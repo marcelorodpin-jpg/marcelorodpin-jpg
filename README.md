@@ -14,10 +14,10 @@ Atualmente estou em transição/evolução na área de tecnologia, com foco prin
 
 ### 🛠️ Minha Toolbox
 
-<img src="https://shields.io" alt="Python">
-<img src="https://shields.io" alt="Git">
-<img src="https://shields.io" alt="VS Code">
-
+*   🐍 **Python** (Linguagem Principal)
+*   Git **&** GitHub (Controle de Versão)
+*   💻 **VS Code** (Editor de Código)
+*   📓 **Jupyter Notebook** (Análise de Dados)
 ---
 
 ### 📊 Estatísticas do GitHub
