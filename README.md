@@ -32,7 +32,7 @@ Atualmente estou em transição/evolução na área de tecnologia, com foco prin
 ### 📫 Como me encontrar
 
 - **LinkedIn:** [marcelorodpin](https://linkedin.com)
-- **Email:** marcelorodpin@gmail.com
+- 
 
 ---
 *“A persistência é o caminho do êxito.”*
