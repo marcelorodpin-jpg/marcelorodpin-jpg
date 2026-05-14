@@ -20,12 +20,6 @@ Atualmente estou em transição/evolução na área de tecnologia, com foco prin
 *   📓 **Jupyter Notebook** (Análise de Dados)
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</div>
 
 ---
 
